@@ -1,6 +1,6 @@
 # Text-Based Adventure Game
 
-Welcome to the Text-Based Adventure Game, a Python project that lets you embark on an exciting and interactive journey through a mysterious world. Use your wits, make choices, and see where the story takes you.
+Welcome to the Text-Based Adventure Game, a C# project that lets you embark on an exciting and interactive journey through a mysterious world. Use your wits, make choices, and see where the story takes you.
 
 ## Table of Contents
 - [Game Overview](#game-overview)
